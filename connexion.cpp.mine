@@ -1,0 +1,24 @@
+#include "connexion.h"
+
+Connexion::Connexion()
+{
+
+}
+bool Connexion::ouvrirConnexion()
+{
+    db = QSqlDatabase::addDatabase("QODBC");
+    db.setDatabaseName("Source_Projet2A");//
+
+    db.setUserName("system");
+    db.setPassword("Freedom1");
+
+    return db.open();
+}
+void Connexion::fermerConnexion()
+{
+    db.close();
+}
+QSqlDatabase Connexion::getBase()
+{
+    return db;
+}

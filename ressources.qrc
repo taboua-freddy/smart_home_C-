@@ -1,0 +1,82 @@
+<RCC>
+    <qresource lang="ressource" prefix="/"/>
+    <qresource prefix="/">
+        <file>img_interface/059a946dab9d6c149b16115f8f06cadf.jpg</file>
+        <file>img_interface/833d042fa9d9e38cea2e687f2fb4b3a4.jpg</file>
+        <file>img_interface/86760294.jpg</file>
+        <file>img_interface/exit.png</file>
+        <file>img_interface/fridge (1).png</file>
+        <file>img_interface/fridge.png</file>
+        <file>img_interface/hotel (1).png</file>
+        <file>img_interface/hotel.png</file>
+        <file>img_interface/left-arrow (1).png</file>
+        <file>img_interface/left-arrow.png</file>
+        <file>img_interface/log-in.png</file>
+        <file>img_interface/parking (1).png</file>
+        <file>img_interface/parking.png</file>
+        <file>img_interface/power-button-off.png</file>
+        <file>img_interface/right-arrow (1).png</file>
+        <file>img_interface/right-arrow.png</file>
+        <file>img_interface/roma-akkordeon-smarthome.jpg</file>
+        <file>img_interface/roma-hub-smarthome-connexoon_(13926).jpg</file>
+        <file>img_interface/seeding (1).png</file>
+        <file>img_interface/seeding.png</file>
+        <file>img_interface/shield (1).png</file>
+        <file>img_interface/shield.png</file>
+        <file>img_interface/slide3.jpg.jpg</file>
+        <file>img_parking/New folder/home.png</file>
+        <file>img_parking/New folder/home1.png</file>
+        <file>img_parking/New folder/home2.png</file>
+        <file>img_parking/New folder/home4.png</file>
+        <file>img_parking/New folder/home5---Copie-ConvertImage-ConvertImage.png</file>
+        <file>img_parking/New folder/home5-ConvertImage.png</file>
+        <file>img_parking/New folder/home5.png</file>
+        <file>img_parking/New folder/home6.png</file>
+        <file>img_parking/New folder/home7.png</file>
+        <file>img_parking/New folder/s.ai</file>
+        <file>img_parking/Nouveau dossier/alarm.png</file>
+        <file>img_parking/Nouveau dossier/back-arrow (1).png</file>
+        <file>img_parking/Nouveau dossier/car (1).png</file>
+        <file>img_parking/Nouveau dossier/car.png</file>
+        <file>img_parking/Nouveau dossier/danger (1).png</file>
+        <file>img_parking/Nouveau dossier/error (1).png</file>
+        <file>img_parking/Nouveau dossier/garage (1).png</file>
+        <file>img_parking/Nouveau dossier/garage (2).png</file>
+        <file>img_parking/Nouveau dossier/garage (3).png</file>
+        <file>img_parking/Nouveau dossier/home-icon-silhouette.png</file>
+        <file>img_parking/Nouveau dossier/id-card.png</file>
+        <file>img_parking/Nouveau dossier/medical-notes-symbol-of-a-list-paper-on-a-clipboard (1).png</file>
+        <file>img_parking/Nouveau dossier/placeholder (1).png</file>
+        <file>img_parking/Nouveau dossier/resume (1).png</file>
+        <file>img_parking/Nouveau dossier/round-account-button-with-user-inside (1).png</file>
+        <file>img_parking/Nouveau dossier/round-account-button-with-user-inside.png</file>
+        <file>img_parking/Nouveau dossier/user (1).png</file>
+        <file>img_parking/drop-down-arrow.png</file>
+        <file>img_parking/entete.png</file>
+        <file>img_parking/entete1.png</file>
+        <file>img_parking/getimages.jpg</file>
+        <file>img_parking/images.jpg</file>
+        <file>img_securite/affichage.png</file>
+        <file>img_securite/delete-user-male-interface-symbol (1).png</file>
+        <file>img_securite/ffg.jpg</file>
+        <file>img_securite/fond1.png</file>
+        <file>img_securite/fondd.jpg</file>
+        <file>img_securite/histo1.png</file>
+        <file>img_securite/new-user (1).png</file>
+        <file>img_securite/r1.png</file>
+        <file>img_securite/r2.png</file>
+        <file>img_securite/resume (1).png</file>
+        <file>img_securite/settings-gears (1).png</file>
+        <file>img_securite/settings-gears.png</file>
+        <file>img_securite/shield.png</file>
+        <file>img_securite/videomonitorynh_22.jpg</file>
+        <file>pack/english.qm</file>
+        <file>pack/french.qm</file>
+        <file>sons/clic.mp3</file>
+        <file>sons/erreur.mp3</file>
+        <file>sons/Windows Critical Stop.wav</file>
+        <file>sons/Windows Exclamation.wav</file>
+        <file>styleSheets/style1.txt</file>
+        <file>styleSheets/style2.txt</file>
+    </qresource>
+</RCC>
